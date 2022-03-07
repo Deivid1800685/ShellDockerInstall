@@ -9,4 +9,4 @@ Consideraciones:
 5. Puedes utilizar un atajo escribiendo gruyere o backstore-docker para trabajar directamente con esos contenedores, al hacer eso solo podras iniciar, mostrar estatus del contenedor y detener el contenedor
 6. Si tu instalación llegase a fallar prueba desinstalar y reinstalar
 
-                                                                                                                                                  David Alejandro Avila Olmeda
+                                                                                  David Alejandro Avila Olmeda
